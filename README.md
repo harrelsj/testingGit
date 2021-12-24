@@ -11,3 +11,5 @@ Added a line from master to merge with new
 Added from my macbook, committed to master
 
 Added from my macbook branch, committed to branch, then merged with master.
+
+Then I pulled it from my Pc, added this line, and sent it back to mac
